@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Andrei+Sias+Pinheiro;I'm+18+years+old;I+am+from+Brazil,+Rio+Grande+Do+Sul;I+study+systems+Development+at+Senac;Welcome!)](https://git.io/typing-svg)<br>
 
 <div align="center"><br>
-  <img width="370"src="https://github-readme-stats.vercel.app/api?username=Andreisias&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&title_color=808080&text_color=808080"/>
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreisias&layout=compact&theme=transparent&title_color=808080&text_color=808080">
 </div>
 
